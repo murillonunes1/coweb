@@ -1,0 +1,30 @@
+.projetos__item {
+  margin: 0 auto;
+}
+
+.projetos__item h1 {
+  margin-top: 10rem;
+  font-size: 5rem;
+  font-weight: 300;
+}
+
+.projetos__item p {
+  font-size: 2.5rem;
+  text-align: justify;
+  margin-bottom: 10px;
+  max-width: 100%;
+}
+
+.projetos__text h1 {
+  font-weight: 500;
+  font-size: 5rem;
+  color: darkcyan;
+}
+
+.projetos__text p {
+  margin-top: 10px;
+  font-weight: 300;
+  font-size: 2rem;
+  margin-bottom: 30px;
+  max-width: 80%;
+}
