@@ -16,8 +16,8 @@ const Sobre = () => {
           <div className="sobre__text">
             <h1>Sobre</h1>
             <p>
-            Nosso escritório oferece uma ampla gama de serviços jurídicos, de auditoria e contabilidade para atender às necessidades de nossos clientes. Oferecemos serviços de consultoria em questões jurídicas, auditoria de empresas e instituições financeiras, contabilidade empresarial e tributária, gestão de riscos, entre outros. Estamos comprometidos em fornecer serviços de alta qualidade e soluções personalizadas para nossos clientes. Nossa abordagem é baseada em entender as necessidades específicas de cada cliente e fornecer soluções sob medida para atender a essas necessidades.
-            </p>
+            Nosso escritório oferece uma ampla gama de serviços jurídicos, de auditoria e contabilidade para atender às necessidades de nossos clientes. Oferecemos serviços de consultoria em questões jurídicas, auditoria de empresas e instituições financeiras, contabilidade empresarial e tributária, gestão de riscos, entre outros.</p>
+            <p>Estamos comprometidos em fornecer serviços de alta qualidade e soluções personalizadas para nossos clientes. Nossa abordagem é baseada em entender as necessidades específicas de cada cliente e fornecer soluções sob medida para atender a essas necessidades.</p>
             <Next route="/projetos" />
           </div>
 

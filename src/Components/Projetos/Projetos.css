@@ -5,7 +5,7 @@
 .projetos__item h1 {
   margin-top: 10rem;
   font-size: 5rem;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 .projetos__item p {
@@ -16,8 +16,8 @@
 }
 
 .projetos__text h1 {
-  font-weight: 500;
-  font-size: 5rem;
+  font-weight: 400;
+  font-size: 4rem;
   color: darkcyan;
 }
 
@@ -26,5 +26,5 @@
   font-weight: 300;
   font-size: 2rem;
   margin-bottom: 30px;
-  max-width: 80%;
+  max-width: 90%;
 }
